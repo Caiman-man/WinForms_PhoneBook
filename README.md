@@ -1,1 +1,1 @@
-# WinForms_PhoneBook
+# Телефонная книга работающая с БД (MS SQL) выполненная при помощи ADO.NET на WinForms
